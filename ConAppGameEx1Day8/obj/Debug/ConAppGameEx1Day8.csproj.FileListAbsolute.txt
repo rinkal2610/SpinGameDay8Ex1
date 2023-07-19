@@ -1,0 +1,8 @@
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\obj\Debug\ConAppGameEx1Day8.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\obj\Debug\ConAppGameEx1Day8.csproj.SuggestedBindingRedirects.cache
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\obj\Debug\ConAppGameEx1Day8.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\bin\Debug\ConAppGameEx1Day8.exe.config
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\bin\Debug\ConAppGameEx1Day8.exe
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\bin\Debug\ConAppGameEx1Day8.pdb
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\obj\Debug\ConAppGameEx1Day8.exe
+C:\DotNetTraining\Day8\ConAppGameEx1Day8\ConAppGameEx1Day8\obj\Debug\ConAppGameEx1Day8.pdb
